@@ -12,7 +12,7 @@ Další programy z této práce:</p>
 
 <ul>
     <li><a href="https://github.com/JanKomis/vyparovani">Částečné vypařování</a></li>
-    <li><a href="https://github.com/JanKomis/vypousteniNadrze">Tepelné ztráty</a></li>
+    <li><a href="https://github.com/JanKomis/tepelneZtraty">Tepelné ztráty</a></li>
     <li><a href="https://github.com/JanKomis/spalovaniJupyter">Spalování plynů</a></li>
     <li><a href="https://github.com/JanKomis/vyparnikH2O">Výparník H2O</a></li>
 </ul>
